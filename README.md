@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🧑 I'm a software engineer working with C#, WPF, .NET, Python, etc.
-- 📖 I'm currently learning Julia, Vue.js, Flask, mongoDB and instruments🎹
+- 📖 I'm currently learning JavaScript, Vue.js, Flask, mongoDB and instruments🎹
 - ✒ You can visit my blog: https://byjrk.github.io/
 
 <!--
