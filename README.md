@@ -2,7 +2,7 @@
 
 - 🧑 I'm a software engineer working with C#, WPF, .NET, Python, etc.
 - 📖 I'm currently learning JavaScript, Vue.js, Flask, mongoDB and instruments🎹
-- ✒ You can visit my blog: https://yunwuyue.xyz
+- ✒ I'm also publishing .NET and Pytho related video tutorials on [Bilibili](https://space.bilibili.com/600592) (in Chinese)
 
 <!--
 **BYJRK/BYJRK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
